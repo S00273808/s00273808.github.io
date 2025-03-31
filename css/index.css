@@ -41,15 +41,15 @@ html, body {
 }
 
 .row:nth-child(1) {
-    background-image: url("img/pexels-dkomov-10189075.jpg");
+    background-image: url("../img/pexels-dkomov-10189075.jpg");
 }
 
 .row:nth-child(2) {
-    background-image: url("img/niklas-hamann-unsplash.jpg");
+    background-image: url("../img/../img/niklas-hamann-unsplash.jpg");
 }
 
 .row:nth-child(3) {
-    background-image: url("img/pexels-glacika67-31315365.jpg");
+    background-image: url("../img/pexels-glacika67-31315365.jpg");
 }
 
 .button-lapwing {
