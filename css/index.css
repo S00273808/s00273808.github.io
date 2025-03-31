@@ -45,7 +45,7 @@ html, body {
 }
 
 .row:nth-child(2) {
-    background-image: url("img/niklas-hamann-unsplash.jpg");
+    background-image: url("https://unsplash.com/photos/black-bird-on-green-grass-during-daytime-6L6OI2Zeb2Q");
 }
 
 .row:nth-child(3) {
