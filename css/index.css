@@ -45,11 +45,11 @@ html, body {
 }
 
 .row:nth-child(2) {
-    background-image: url("https://unsplash.com/photos/black-bird-on-green-grass-during-daytime-6L6OI2Zeb2Q");
+    background-image: url("https://images.unsplash.com/photo-1586439586787-d78fdcdcfb9f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
 
 .row:nth-child(3) {
-    background-image: url("img/pexels-glacika67-31315365.jpg");
+    background-image: url("https://images.pexels.com/photos/31315365/pexels-photo-31315365/free-photo-of-redstart-bird-perched-on-wooden-ledge-in-sunlight.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
 }
 
 .button-lapwing {
