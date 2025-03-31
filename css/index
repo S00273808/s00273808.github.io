@@ -1,0 +1,73 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "Nunito", sans-serif;
+}
+
+/* Use flexbox */
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.row {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.bottom-banner {
+    text-align: center;
+    color: black;
+}
+.button {
+    padding: 20px 40px;
+    font-size: 1.5em;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease;
+    position: relative;
+    z-index: 10;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
+
+.row:nth-child(1) {
+    background-image: url("../img/pexels-dkomov-10189075.jpg");
+}
+
+.row:nth-child(2) {
+    background-image: url("../img/../img/niklas-hamann-unsplash.jpg");
+}
+
+.row:nth-child(3) {
+    background-image: url("../img/pexels-glacika67-31315365.jpg");
+}
+
+.button-lapwing {
+    background-color: rgba(112,128,144,0.8);
+    color: white;
+}
+
+.button-blackbird {
+    background-color: rgba(119,136,153,0.8);
+    color: white;
+}
+
+.button-redstart {
+    background-color: rgba(105,105,105,0.8);
+    color: white;
+}
+
+#collegewebsite {
+    text-align: center;
+    color: black;
+}
