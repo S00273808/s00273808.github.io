@@ -41,7 +41,7 @@ html, body {
 }
 
 .row:nth-child(1) {
-    background-image: url("img/pexels-dkomov-10189075.jpg");
+    background-image: url("https://images.pexels.com/photos/10189075/pexels-photo-10189075.jpeg");
 }
 
 .row:nth-child(2) {
